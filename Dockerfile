@@ -5,7 +5,7 @@ RUN sudo apt-get install -y bsdtar \
   && sudo cp $(which tar) $(which tar)~ \
   && sudo ln -sf $(which bsdtar) $(which tar)
 
-RUN curl -sL https://install.meteor.com/?release=1.9.3 | sh
+RUN curl -sL https://install.meteor.com/?release=1.10.1 | sh
 
 # put back the original tar
 RUN sudo mv $(which tar)~ $(which tar)
