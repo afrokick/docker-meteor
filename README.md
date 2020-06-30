@@ -1,3 +1,4 @@
+![Docker Image Size (latest semver)](https://img.shields.io/docker/image-size/asosnovskiy/docker-meteor)
 ## Meteor 1.8+
 
 ### Tags
