@@ -3,6 +3,10 @@
 
 ### Tags
 
+#### Meteor 1.11.1
+
+- `asosnovskiy/docker-meteor:1.11.1`, `asosnovskiy/docker-meteor:latest` use `NodeJS 12.18.4` and `Meteor 1.11.1`
+- 
 #### Meteor 1.10.x
 
 - `asosnovskiy/docker-meteor:1.10.2`, `asosnovskiy/docker-meteor:latest` use `NodeJS 12.16.1` and `Meteor 1.10.2`
