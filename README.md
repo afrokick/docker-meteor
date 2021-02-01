@@ -5,7 +5,11 @@
 
 #### Latest
 
-- `asosnovskiy/docker-meteor:latest` points to `asosnovskiy/docker-meteor:1.12.1`
+- `asosnovskiy/docker-meteor:latest` points to `asosnovskiy/docker-meteor:2.0`
+
+#### Meteor 2.0
+
+- `asosnovskiy/docker-meteor:2.0` with `NodeJS 12.20.1` and `Meteor 2.0`
 
 #### Meteor 1.12.1
 
