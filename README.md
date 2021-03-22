@@ -1,11 +1,13 @@
 ![Docker Image Size (latest semver)](https://img.shields.io/docker/image-size/asosnovskiy/docker-meteor)
-## Meteor 1.8+
+# Meteor 1.8.3+ docker image
 
-### Tags
+## Tags
 
-#### Latest
+### Latest
 
 - `asosnovskiy/docker-meteor:latest` points to `asosnovskiy/docker-meteor:2.1`
+
+### Meteor 2.X
 
 #### Meteor 2.1
 
@@ -14,6 +16,8 @@
 #### Meteor 2.0
 
 - `asosnovskiy/docker-meteor:2.0` with `NodeJS 12.20.1` and `Meteor 2.0`
+
+### Meteor 1.X
 
 #### Meteor 1.12.1
 
